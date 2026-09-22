@@ -1,4 +1,4 @@
-# LionsBot Interview Scenarios
+# CleanBot Interview Scenarios
 
 ## Late and duplicate telemetry
 
