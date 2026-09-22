@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+data/
+checkpoints/
+.ivy2/
+__pycache__/
+*.pyc
