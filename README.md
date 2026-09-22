@@ -1,6 +1,6 @@
-# LionsBot Kafka & Spark Streaming Interview Lab
+# cleanbots Kafka & Spark Streaming Interview Lab
 
-Hands-on notes and examples for a Data Platform / Lead Data Engineer interview involving real-time robot telemetry.
+Hands-on notes and examples for a Data Platform involving real-time robot telemetry.
 
 ## Architecture built
 
